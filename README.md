@@ -3,21 +3,20 @@
 W tym repozytorium znajdziecie szablon projektu, który można wykorzystać przy tworzeniu projektu semestralnego. Zawiera on skonfigurowane podstawowe biblioteki, które mogą być przydatne podczas pracy oraz proponowaną skturkturę katalogów.
 
 ## Jak uruchomić projekt
+poszegolne komendy 
 
-W pierwszej kolejności należy użyć narzędzia NVM do wybrania odpowiedniej wersji Node.js:
 ```shell
-nvm use
+npm install vite
 ```
 
-Jeżeli narzędzie zwróci błąd o tym, że obecnie nie jest zainstalowana żądana wersja Node'a, wówczas należy użyć komendy:
+
 ```shell
-nvm install 20.18.0
-nvm use
+npm install -g vite
 ```
 
-Następnie należy zainstalować biblioteki wymagane do uruchomienia projektu:
+
 ```shell
-npm install
+npx vite --port 3000 --open
 ```
 
 Potem projekt można uruchomić w przeglądarce używając polecenia:
