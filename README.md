@@ -1,6 +1,6 @@
 # Programowanie Front-end (szbalon projektu)
 
-W tym repozytorium znajdziecie szablon projektu, który można wykorzystać przy tworzeniu projektu semestralnego. Zawiera on skonfigurowane podstawowe biblioteki, które mogą być przydatne podczas pracy oraz proponowaną skturkturę katalogów.
+Aplikacja pogodowa
 
 ## Jak uruchomić projekt
 poszegolne komendy 
