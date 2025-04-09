@@ -1,4 +1,4 @@
-# Programowanie Front-end (szbalon projektu)
+# Programowanie Front-end 
 
 Aplikacja pogodowa
 
